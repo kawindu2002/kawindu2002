@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kawindu2002
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning at Institute of Software Engineering in Sri Lanka.
+- 🌱 I’m currently learning at Institute of Software Engineering in Sri Lanka(IJSE).
 - 💞️ I’m looking to collaborate on mobile app development and web development.
 - 📫 How to reach me : kawindupriyashan@gmail.com
 - 😄 Pronouns: He/Him
