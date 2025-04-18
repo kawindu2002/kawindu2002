@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawindu2002&show_icons=true&locale=en" alt="GitHub Stats" width="48%" height="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawindu2002" alt="GitHub Streak" width="48%" height="1000%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kawindu2002&show_icons=true&locale=en" alt="GitHub Stats" width="48%"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawindu2002" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
