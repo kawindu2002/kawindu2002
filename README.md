@@ -35,7 +35,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> 
 
 
-<p><img align="left" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawindu2002&show_icons=true&locale=en&layout=compact" alt="kawindu2002" /></p>
+<p><img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawindu2002&show_icons=true&locale=en&layout=compact" alt="kawindu2002" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kawindu2002&show_icons=true&locale=en" alt="kawindu2002" /></p>
 
