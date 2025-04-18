@@ -78,10 +78,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawindu2002&" alt="kawindu2002" />
 </p>
 
-<p align="center">
-  <img align="center" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawindu2002&show_icons=true&locale=en&layout=compact" alt="kawindu2002" />
-</p>
-
 ---
 
 ### 📂 My Projects:
