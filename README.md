@@ -13,7 +13,6 @@
   </a>
 </p>
 
----
 
 ### 🔭 Currently Studying at **IJSE (Institute of Software Engineering)**
 
