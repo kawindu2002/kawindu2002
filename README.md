@@ -21,7 +21,6 @@
 - ⚡ Fun Fact: Call me **KP**
 
 
-
 ### 🚀 Connect with me:
 
 <p align="center">
