@@ -19,7 +19,6 @@
 - 📫 Reach me at: [kawindupriyashan@gmail.com](mailto:kawindupriyashan@gmail.com)
 - ⚡ Fun Fact: Call me **KP**
 
-
 ### 🚀 Connect with me:
 
 <p align="center">
