@@ -14,7 +14,6 @@
 
 ### 🔭 Currently Studying at **IJSE (Institute of Software Engineering)**
 
-
 - 🌱 I'm learning **JavaScript**
 - 💬 Ask me about **Programming**
 - 📫 Reach me at: [kawindupriyashan@gmail.com](mailto:kawindupriyashan@gmail.com)
