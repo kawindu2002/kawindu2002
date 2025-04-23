@@ -72,5 +72,4 @@ Check out my portfolio and projects:
 
 [**My Portfolio**](https://my-portfolio-blond-phi-42.vercel.app)
 
-
 #### Thanks for visiting my profile! 😊
