@@ -1,9 +1,5 @@
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px"></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/I'm%20Kawindu%20Priyashan-red?style=for-the-badge&logo=github" alt="Kawindu Priyashan Badge">
-</p>
-
 <h1 align="center">I'm Kawindu Priyashan</h1>
 <h3 align="center">Undergraduate | Student at IJSE-Institute of Software Engineering</h3>
 
