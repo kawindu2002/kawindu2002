@@ -12,7 +12,6 @@
   </a>
 </p>
 
-
 ### 🔭 Currently Studying at **IJSE (Institute of Software Engineering)**
 
 - 🌱 I'm learning **JavaScript**
