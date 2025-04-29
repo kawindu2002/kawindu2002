@@ -6,11 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kawindu2002&label=Profile%20views&color=0e75b6&style=flat" alt="kawindu2002" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kawindu2002" alt="kawindu2002" />
-  </a>
-</p>
 
 ### 🔭 Currently Studying at **IJSE (Institute of Software Engineering)**
 
