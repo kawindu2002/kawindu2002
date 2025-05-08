@@ -7,15 +7,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **IJSE**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+- 📫 Reach me at: [kawindupriyashan@gmail.com](mailto:kawindupriyashan@gmail.com)
+
+- ⚡ Fun Fact: Call me **KP**
 
 </td>
 <td width="50%" align="center">
