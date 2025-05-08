@@ -94,11 +94,10 @@
 
 <h3 align="center">My Portfolio:</h3>
 
-<p align="center">[**My Portfolio**](https://my-portfolio-blond-phi-42.vercel.app) </p>
+<p align="center"> https://my-portfolio-blond-phi-42.vercel.app </p>
 
 ---
-
-#### Thanks for visiting my profile! 😊
+<h3 align="center">Thanks for visiting my profile!</h3>
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 200px></p>
 
