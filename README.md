@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px"></p>
+
 <h1 align="center">I'm Kawindu Priyashan</h1>
 <h3 align="center">Undergraduate | Student at IJSE-Institute of Software Engineering</h3>
 
@@ -54,7 +55,6 @@
 </p>
 
 ### 📂 My Projects:
-
 Check out my portfolio and projects:
 
 [**My Portfolio**](https://my-portfolio-blond-phi-42.vercel.app)
